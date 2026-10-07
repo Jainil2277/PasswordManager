@@ -1,7 +1,6 @@
 # Ignore your password database
 data.json
 
-# Ignore PyCharm internal configuration files
 .idea/
 *.pyc
 __pycache__/
